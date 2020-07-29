@@ -35,3 +35,6 @@ public/styles.css.map
 public/dist/
 
 yarn.lock
+
+.env.test
+.env.development
