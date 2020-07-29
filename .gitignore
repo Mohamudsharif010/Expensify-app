@@ -37,4 +37,4 @@ public/dist/
 yarn.lock
 
 .env.test
-.env.development
+.env.development    
